@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2026 Rekluz Games. All rights reserved.
+  ~ This code and its assets are the exclusive property of Rekluz Games.
+  ~ Unauthorized copying, distribution, or commercial use is strictly prohibited.
+  -->
+
+<resources>
+    <!-- Core Identity -->
+    <string name="app_name">Nikakudori Fresh</string>
+
+    <!-- Game State / UI -->
+    <string name="win_message">VICTORY!</string>
+    <string name="game_paused">PAUSED</string>
+    <string name="loading_board">GENERATING SOLVABLE BOARD...</string>
+
+    <!-- Buttons -->
+    <string name="btn_play_again">Play Again</string>
+    <string name="btn_done">DONE</string>
+    <string name="btn_resume">RESUME</string>
+    <string name="btn_menu">MENU</string>
+    <string name="btn_hint">HINT</string>
+    <string name="btn_boards">BOARDS</string>
+
+    <!-- Scoring -->
+    <string name="current_score_label">Score: %1$d</string>
+    <string name="time_label">TIME</string>
+    <string name="placeholder_rankings">1. --- \n2. --- \n3. ---</string>
+
+    <!-- About Screen -->
+    <string name="about_developer">Developed by Rico Luzi / Rekluz Games</string>
+    <string name="about_description">A Japanese tile-matching classic. Connect identical pairs with no more than two turns to clear the board!</string>
+    <string name="version_label">Version %1$s</string>
+
+    <!-- Social / Project -->
+    <string name="copyright_notice">© 2026 Rekluz Games. All Rights Reserved.</string>
+    <string name="github_url">https://github.com/rekluz/Nikakudori-Fresh</string>
+</resources>
