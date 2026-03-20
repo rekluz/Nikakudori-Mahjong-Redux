@@ -11,19 +11,18 @@ plugins {
 
 android {
     // This MUST match the package name at the top of your .kt files
-    namespace = "com.rekluzgames.nikakudorifresh"
+    namespace = "com.rekluzgames.nikakudorimahjong"
 
     compileSdk = 36
 
     defaultConfig {
-        // UPDATED: Changed to match your new project name
-        applicationId = "com.rekluzgames.nikakudorifresh"
+        applicationId = "com.rekluzgames.nikakudorimahjong"
 
         minSdk = 24
         targetSdk = 36
 
-        versionCode = 26031701
-        versionName = "5.0.0"
+        versionCode = 26031901
+        versionName = "5.1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -45,6 +44,7 @@ android {
 
     buildFeatures {
         compose = true
+        buildConfig = true  // Enables BuildConfig.VERSION_NAME auto-generation
     }
 
     packaging {
