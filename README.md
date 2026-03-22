@@ -26,5 +26,4 @@ Built with Kotlin and Jetpack Compose, it brings a classic puzzle favorite to li
  * This code and its assets are the exclusive property of Rekluz Games.
  * Unauthorized copying, distribution, or commercial use is strictly prohibited.
   <p align="center">
-<img width="350" height="250" alt="gameposter" src="https://github.com/user-attachments/assets/c2286294-2871-4b37-86c3-4a10e1a1ad33" />
-</p>
+<img width="350" height="250" alt="newWelcome_screen (Small)" src="https://github.com/user-attachments/assets/2ae66af6-738b-46b5-bfd5-9a6c07091fca" /></p>
