@@ -75,7 +75,8 @@
     <!-- Scoring -->
 
     <!-- About Screen -->
-    <string name="about_description">Isang klasikong Japanese tile-matching game. Ikonekta ang magkaparehong pares gamit ang hindi hihigit sa dalawang liko upang ma-clear ang board!</string>
+    <string name="how_to_play">Paano maglaro</string>
+    <string name="about_description">Maghanap ng magkaparehong pares at ikonekta sila gamit ang isang landas. Ang iyong landas ay maaaring gumawa ng hindi hihigit sa dalawang liko—epektibong i-clear ang mga pares para makompleto ang bawat level!</string>
     <string name="version_label">BERSYON %1$s</string>
 
     <!-- Social / Project -->

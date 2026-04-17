@@ -184,7 +184,7 @@ fun LanguageOverlay(onSelect: (String) -> Unit, onClose: () -> Unit) {
         OverlayCard {
             OverlayTitle(stringResource(R.string.btn_language))
 
-            // 2x2x2 grid — six languages in three rows of two
+            // 2x2x2 grid — eight languages in four rows
             Column(
                 verticalArrangement = Arrangement.spacedBy(12.dp),
                 horizontalAlignment = Alignment.CenterHorizontally
@@ -220,6 +220,17 @@ fun LanguageOverlay(onSelect: (String) -> Unit, onClose: () -> Unit) {
                     }
                     Box(modifier = Modifier.weight(1f)) {
                         MenuPillButton("Español", color = Color(0xFF2A2A2A)) { onSelect("es") }
+                    }
+                }
+                Row(
+                    horizontalArrangement = Arrangement.spacedBy(12.dp),
+                    modifier = Modifier.fillMaxWidth()
+                ) {
+                    Box(modifier = Modifier.weight(1f)) {
+                        MenuPillButton("繁體中文", color = Color(0xFF2A2A2A)) { onSelect("zh-TW") }
+                    }
+                    Box(modifier = Modifier.weight(1f)) {
+                        MenuPillButton("한국어", color = Color(0xFF2A2A2A)) { onSelect("ko") }
                     }
                 }
             }

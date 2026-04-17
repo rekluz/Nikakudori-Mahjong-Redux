@@ -75,7 +75,8 @@
     <!-- Scoring -->
 
     <!-- About Screen -->
-    <string name="about_description">Un classico abbinamento di tessere giapponese. Connetti coppie identiche con non più di due svolte per pulire il tavolo!</string>
+    <string name="how_to_play">Come giocare</string>
+    <string name="about_description">Trova coppie identiche e collegale con un percorso. Il tuo percorso può fare al massimo due svolte—pulisci le coppie in modo efficiente per completare ogni livello!</string>
     <string name="version_label">Versione %1$s</string>
 
     <!-- Social / Project -->

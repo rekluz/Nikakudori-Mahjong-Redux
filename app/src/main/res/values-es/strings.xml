@@ -75,7 +75,8 @@
     <!-- Scoring -->
 
     <!-- About Screen -->
-    <string name="about_description">Un clásico japonés de combinación de fichas. ¡Conecta pares idénticos con no más de dos giros para limpiar el tablero!</string>
+    <string name="how_to_play">Cómo jugar</string>
+    <string name="about_description">Encuentra pares idénticos y conéctalos con un camino. Tu camino puede girar como máximo dos veces—¡limpia los pares eficientemente para completar cada nivel!</string>
     <string name="version_label">Versión %1$s</string>
 
     <!-- Social / Project -->

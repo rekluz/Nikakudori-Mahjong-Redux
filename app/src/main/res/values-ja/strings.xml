@@ -73,7 +73,8 @@
     <!-- Scoring -->
 
     <!-- About Screen -->
-    <string name="about_description">日本の定番パズルゲーム。2つ以下の角（曲がり角2回まで）で同じ牌をつないで、盤面をクリアしよう！</string>
+    <string name="how_to_play">遊び方</string>
+    <string name="about_description">同じ牌を探してつなぎ合わせよう。道は最大2回まで曲がれるよ。効率的にペアをクリアしてレベルをクリアしよう！</string>
     <string name="version_label">バージョン %1$s</string>
 
     <!-- Social / Project -->

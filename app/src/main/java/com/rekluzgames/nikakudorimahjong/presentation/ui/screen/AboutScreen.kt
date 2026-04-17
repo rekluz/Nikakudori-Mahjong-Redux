@@ -88,6 +88,11 @@ fun AboutScreen(viewModel: GameViewModel) {
                             // LEFT SIDE: Description and GitHub
                             Column(modifier = Modifier.weight(1.2f).padding(end = 16.dp)) {
                                 Text(
+                                    text = stringResource(R.string.how_to_play),
+                                    color = Color.White, fontSize = 18.sp, fontWeight = FontWeight.Bold
+                                )
+                                Spacer(Modifier.height(8.dp))
+                                Text(
                                     text = stringResource(R.string.about_description),
                                     color = Color.White, fontSize = 15.sp, lineHeight = 20.sp
                                 )

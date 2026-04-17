@@ -75,7 +75,8 @@
     <!-- Scoring -->
 
     <!-- About Screen -->
-    <string name="about_description">Un classique japonais d\'association de tuiles. Connectez des paires identiques avec pas plus de deux virages pour vider le plateau !</string>
+    <string name="how_to_play">Comment jouer</string>
+    <string name="about_description">Trouvez des paires identiques et connectez-les par un chemin. Votre chemin peut faire au plus deux virages—clairez les paires efficacement pour compléter chaque niveau !</string>
     <string name="version_label">Version %1$s</string>
 
     <!-- Social / Project -->

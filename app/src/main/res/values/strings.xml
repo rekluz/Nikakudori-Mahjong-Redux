@@ -87,7 +87,8 @@
     <string name="board_castle">Castle</string>
 
     <!-- About Screen -->
-    <string name="about_description">A Japanese tile-matching classic. Connect identical pairs with no more than two turns to clear the board!</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="about_description">Find identical pairs and connect them with a path. Your path can turn at most twice—clear pairs efficiently to complete each level!</string>
     <string name="version_label">Version %1$s</string>
 
     <!-- Social / Project -->
