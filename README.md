@@ -1,7 +1,9 @@
+
+
 # Nikakudori Mahjong
 Copyright (c) 2026 Rekluz Games. All rights reserved.
-<p align="center">
-  <img width="450" height="250" alt="gameboard" src="https://github.com/user-attachments/assets/2388153e-9121-4550-9e33-7dbcdf3b9222" />
+<p align="center">  
+<img width="550" height="250" alt="gameplay1" src="https://github.com/user-attachments/assets/2fe81263-8203-4ff5-9f47-5510433dffb4" />
 </p>
 
 A beautiful and peaceful Japanese tile-matching solitaire game. Clear the board by matching identical pairs to reveal scenic images of Japan and inspirational proverbs.
@@ -41,12 +43,8 @@ Fixed some game board glitches
 - **Timer & High Scores:** Track your best times
 - **Multi-language:** Japanese, Tagalog, Spanish, French, Italian
 - **Customizable:** Music, sound, vibration
-- **Visual Effects:** Animated connections, scenic reveals
+- **Visual Effects:** Animated connections, more features on the way
 - **No Ads or Tracking:** Clean, stress-free gameplay
-
-## Screenshots
-
-*Coming soon*
 
 ## License
 
